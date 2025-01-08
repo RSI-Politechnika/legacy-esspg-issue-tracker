@@ -1,2 +1,2 @@
 # legacy-esspg-issue-tracker
-Tutaj można zgłaszać błędy dotyczące działania obecnego systemu eSSPG
+Przeniesiony na: https://git.pg.edu.pl/sspg/legacy-esspg-issue-tracker/-/issues
